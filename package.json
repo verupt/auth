@@ -1,0 +1,11 @@
+{
+  "name": "auth",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "verupt",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
