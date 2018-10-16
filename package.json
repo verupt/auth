@@ -6,6 +6,8 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "knex": "^0.15.2",
+    "pg": "^7.5.0"
   }
 }
